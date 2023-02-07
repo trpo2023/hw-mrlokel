@@ -1,6 +1,6 @@
-C #include<stdio.h>
+#include <stdio.h>
 
-        int main()
+int main()
 {
     printf("Сумма двух чисел!\n");
     printf("Введите первое число: ");
